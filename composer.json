@@ -1,0 +1,12 @@
+{
+    "prefer-stable": false,
+    "minimum-stability": "dev",
+    "require": {
+        "google/apiclient": "1.1.*",
+        "asimlqt/php-google-spreadsheet-client": "2.3.7"
+    },
+    "config": {
+        "preferred-install": "dist",
+        "optimize-autoloader" : true
+    }
+}
