@@ -19,7 +19,7 @@ first thing, request the token, using index.php, uncomment oauth2callback.php li
 
         23. //$client->authenticate($_GET['code']);
         24. //$access_token = $client->getAccessToken();
-
+        ....
         26. //die($access_token);
 
 copy result access_token to oauth2callback.php line 30
