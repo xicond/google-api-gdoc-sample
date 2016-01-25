@@ -15,9 +15,10 @@ I'm using 2 libraries:
 
 hope not crash on your installing
 
-first thing, request the token, using index.php, uncomment oauth2callback.php line 23 & 26
+first thing, request the token, using index.php, uncomment oauth2callback.php line 23, 24 & 26
 
         23. //$client->authenticate($_GET['code']);
+        24. //$access_token = $client->getAccessToken();
 
         26. //die($access_token);
 
