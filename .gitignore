@@ -1,4 +1,4 @@
-/README.md
+README.md
 
 /vendor
 
@@ -10,6 +10,10 @@ composer.lock
 
 node_modules/*
 
+/node_modules
+
 /build
 
 bower_components/*
+
+/bower_components
